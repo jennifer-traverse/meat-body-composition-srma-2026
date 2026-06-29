@@ -60,22 +60,20 @@ install.packages(c("meta", "metafor", "dplyr", "ggplot2", "readxl", "openxlsx"))
 
 If you use this code or data, please cite:
 
-> Peregoy JA, Fleming RA, Leidy HJ, Fleming SA. (2026). *meat-body-composition-srma-2026: R scripts and dataset for systematic review and meta-analysis of meat consumption and body composition outcomes in adults* (v1.0.0). Zenodo. https://doi.org/[YOUR_DOI_HERE]
+> Peregoy JA, Fleming RA, Leidy HJ, Fleming SA. (2026). *meat-body-composition-srma-2026: R scripts and dataset for systematic review and meta-analysis of meat consumption and body composition outcomes in adults* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21031103
 
 A BibTeX entry:
 
 ```bibtex
 @software{meat_body_composition_srma_2026,
-  author    = {Peregoy, Jennifer A. and Fleming, R. A. and Leidy, H. J. and Fleming, S. A.},
+  author    = {Peregoy, Jennifer A. and Fleming, Rachel A. and Leidy, Heather J. and Fleming, Stephen A.},
   title     = {meat-body-composition-srma-2026},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {[YOUR_DOI_HERE]},
-  url       = {https://doi.org/[YOUR_DOI_HERE]}
+  doi       = {10.5281/zenodo.21031103},
+  url       = {https://doi.org/10.5281/zenodo.21031103}
 }
 ```
-
-> Update `[YOUR_DOI_HERE]` with the DOI assigned by Zenodo after your first release.
 
 ---
 
