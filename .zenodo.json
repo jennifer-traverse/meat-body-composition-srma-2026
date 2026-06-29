@@ -1,0 +1,42 @@
+{
+  "title": "meat-body-composition-srma-2026: R scripts and dataset for systematic review and meta-analysis of meat consumption and body composition outcomes in adults",
+  "description": "R scripts and dataset supporting the systematic review and meta-analysis evaluating the effects of meat consumption on body size, composition, and skeletal muscle outcomes in adults. Includes data cleaning scripts, pooled meta-analyses, subgroup analyses, sensitivity analyses, publication bias assessments, and all associated figures.",
+  "creators": [
+    {
+      "name": "Peregoy, Jennifer A.",
+      "affiliation": "Traverse Science",
+      "orcid": "XXXX-XXXX-XXXX-XXXX"
+    },
+    {
+      "name": "Fleming, R. A.",
+      "affiliation": "Traverse Science",
+      "orcid": "XXXX-XXXX-XXXX-XXXX"
+    },
+    {
+      "name": "Leidy, H. J.",
+      "affiliation": "Traverse Science",
+      "orcid": "XXXX-XXXX-XXXX-XXXX"
+    },
+    {
+      "name": "Fleming, S. A.",
+      "affiliation": "Traverse Science",
+      "orcid": "XXXX-XXXX-XXXX-XXXX"
+    }
+  ],
+  "keywords": [
+    "meta-analysis",
+    "systematic review",
+    "meat consumption",
+    "body composition",
+    "body weight",
+    "lean mass",
+    "fat mass",
+    "BMI",
+    "skeletal muscle",
+    "R"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng"
+}
